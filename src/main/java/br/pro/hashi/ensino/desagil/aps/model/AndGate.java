@@ -25,5 +25,5 @@ public class AndGate extends Gate {
         nand1.connect(0, nand);
         nand1.connect(1, nand);
 
-}
+    }
 }
